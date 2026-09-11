@@ -1,0 +1,4 @@
+Name: Mohammed Aariz
+USN: 4NI25CS114
+Subject: DevOps
+Experiment: Git Operations
